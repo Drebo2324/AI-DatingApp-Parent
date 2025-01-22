@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Drebo2324/AiDatingApp-Back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Drebo2324/AiDatingApp-Front.git
